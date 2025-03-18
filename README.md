@@ -1,0 +1,1 @@
+This project helps to get latitude, longitude, and altitude data correctly from a GPS module. I tested the code on Adafruit Ultimate GPS Breakout and GY-GPSU3-NEO modules. The microcontroller used is the STM32F401CEU6 development board. Data is received using the UART communication protocol with DMA.
